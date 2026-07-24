@@ -97,9 +97,9 @@
   },
   {
     "team_id": 17,
-    "team_name": "Southampton",
-    "team_abbreviation": "SOU",
-    "team_stadium": "St Mary's Stadium"
+    "team_name": "Coventry City",
+    "team_abbreviation": "COV",
+    "team_stadium": "Coventry Building Society Arena"
   },
   {
     "team_id": 18,
@@ -109,14 +109,14 @@
   },
   {
     "team_id": 19,
-    "team_name": "West Ham",
-    "team_abbreviation": "WHU",
-    "team_stadium": "London Stadium"
+    "team_name": "Ipswich Town",
+    "team_abbreviation": "IPS",
+    "team_stadium": "Portman Road"
   },
   {
     "team_id": 20,
-    "team_name": "Wolves",
-    "team_abbreviation": "WOL",
-    "team_stadium": "Molineux Stadium"
+    "team_name": "Hull City",
+    "team_abbreviation": "HUL",
+    "team_stadium": "MKM Stadium"
   }
 ]

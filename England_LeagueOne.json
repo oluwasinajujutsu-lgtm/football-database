@@ -7,45 +7,45 @@
   },
   {
     "team_id": 2,
-    "team_name": "Bristol Rovers",
-    "team_abbreviation": "BRI",
-    "team_stadium": "Memorial Stadium"
+    "team_name": "Bradford City",
+    "team_abbreviation": "BRD",
+    "team_stadium": "University of Bradford Stadium"
   },
   {
     "team_id": 3,
     "team_name": "Blackpool",
-    "team_abbreviation": "BLA",
+    "team_abbreviation": "BLP",
     "team_stadium": "Bloomfield Road"
   },
   {
     "team_id": 4,
-    "team_name": "Bolton Wanderers",
-    "team_abbreviation": "BOL",
-    "team_stadium": "University of Bolton Stadium"
+    "team_name": "AFC Wimbledon",
+    "team_abbreviation": "WIM",
+    "team_stadium": "Cherry Red Records Stadium"
   },
   {
     "team_id": 5,
     "team_name": "Burton Albion",
-    "team_abbreviation": "BUR",
+    "team_abbreviation": "BRT",
     "team_stadium": "Pirelli Stadium"
   },
   {
     "team_id": 6,
-    "team_name": "Exeter City",
-    "team_abbreviation": "EXE",
-    "team_stadium": "St James Park"
+    "team_name": "Doncaster Rovers",
+    "team_abbreviation": "DON",
+    "team_stadium": "Eco-Power Stadium"
   },
   {
     "team_id": 7,
-    "team_name": "Northampton Town",
-    "team_abbreviation": "NOR",
-    "team_stadium": "Sixfields Stadium"
+    "team_name": "Bromley",
+    "team_abbreviation": "BRO",
+    "team_stadium": "Hayes Lane"
   },
   {
     "team_id": 8,
-    "team_name": "Lincoln City",
-    "team_abbreviation": "LIN",
-    "team_stadium": "LNER Stadium"
+    "team_name": "Oxford United",
+    "team_abbreviation": "OXF",
+    "team_stadium": "Kassam Stadium"
   },
   {
     "team_id": 9,
@@ -55,9 +55,9 @@
   },
   {
     "team_id": 10,
-    "team_name": "Birmingham City",
-    "team_abbreviation": "BIR",
-    "team_stadium": "St. Andrew's"
+    "team_name": "Leicester City",
+    "team_abbreviation": "LEI",
+    "team_stadium": "King Power Stadium"
   },
   {
     "team_id": 11,
@@ -68,7 +68,7 @@
   {
     "team_id": 12,
     "team_name": "Wigan Athletic",
-    "team_abbreviation": "WIG",
+    "team_abbreviation": "WGA",
     "team_stadium": "DW Stadium"
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "team_id": 15,
-    "team_name": "Bolton Wanderers",
-    "team_abbreviation": "BOL",
-    "team_stadium": "University of Bolton Stadium"
+    "team_name": "Milton Keynes Dons",
+    "team_abbreviation": "MKD",
+    "team_stadium": "Stadium MK"
   },
   {
     "team_id": 16,
-    "team_name": "Charlton Athletic",
-    "team_abbreviation": "CHA",
-    "team_stadium": "The Valley"
+    "team_name": "Sheffield Wednesday",
+    "team_abbreviation": "SHW",
+    "team_stadium": "Hillsborough"
   },
   {
     "team_id": 17,
@@ -104,7 +104,7 @@
   {
     "team_id": 18,
     "team_name": "Mansfield Town",
-    "team_abbreviation": "MAN",
+    "team_abbreviation": "MNF",
     "team_stadium": "One Call Stadium"
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "team_id": 20,
-    "team_name": "Rotherham United",
-    "team_abbreviation": "ROT",
-    "team_stadium": "AESSEAL New York Stadium"
+    "team_name": "Plymouth Argyle",
+    "team_abbreviation": "PLY",
+    "team_stadium": "Home Park"
   },
   {
     "team_id": 21,
@@ -133,14 +133,14 @@
   },
   {
     "team_id": 23,
-    "team_name": "Crawley Town",
-    "team_abbreviation": "CRA",
-    "team_stadium": "Broadfield Stadium"
+    "team_name": "Luton Town",
+    "team_abbreviation": "LTN",
+    "team_stadium": "Kenilworth Road"
   },
   {
     "team_id": 24,
-    "team_name": "Shrewsbury Town",
-    "team_abbreviation": "SHR",
-    "team_stadium": "New Meadow"
+    "team_name": "Notts County",
+    "team_abbreviation": "NCO",
+    "team_stadium": "Meadow Lane"
   }
 ]

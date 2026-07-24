@@ -2,7 +2,7 @@ Sport Teams - JSON Data
 ========================
 
 Collection of sport leagues around the world saved in json format. <br>
-Data is based on the 2023/2024 season.
+Data is based on the 2026/2027 season.
 
 # Leagues
 

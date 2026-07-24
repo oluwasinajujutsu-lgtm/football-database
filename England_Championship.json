@@ -25,9 +25,9 @@
     },
     {
       "team_id": 5,
-      "team_name": "Coventry City",
-      "team_abbreviation": "COV",
-      "team_stadium": "Coventry Building Society Arena"
+      "team_name": "Birmingham City",
+      "team_abbreviation": "BIR",
+      "team_stadium": "St Andrew's @ Knighthead Park"
     },
     {
       "team_id": 6,
@@ -37,21 +37,21 @@
     },
     {
       "team_id": 7,
-      "team_name": "Hull City",
-      "team_abbreviation": "HUL",
-      "team_stadium": "MKM Stadium"
+      "team_name": "Wrexham",
+      "team_abbreviation": "WXM",
+      "team_stadium": "STōK Cae Ras"
     },
     {
       "team_id": 8,
-      "team_name": "Leeds United",
-      "team_abbreviation": "LEE",
-      "team_stadium": "Elland Road"
+      "team_name": "West Ham United",
+      "team_abbreviation": "WHU",
+      "team_stadium": "London Stadium"
     },
     {
       "team_id": 9,
-      "team_name": "Luton Town",
-      "team_abbreviation": "LUT",
-      "team_stadium": "Kenilworth Road"
+      "team_name": "Southampton",
+      "team_abbreviation": "SOU",
+      "team_stadium": "St Mary's Stadium"
     },
     {
       "team_id": 10,
@@ -73,15 +73,15 @@
     },
     {
       "team_id": 13,
-      "team_name": "Oxford United",
-      "team_abbreviation": "OXF",
-      "team_stadium": "Kassam Stadium"
+      "team_name": "Lincoln City",
+      "team_abbreviation": "LCN",
+      "team_stadium": "LNER Stadium"
     },
     {
       "team_id": 14,
-      "team_name": "Plymouth Argyle",
-      "team_abbreviation": "PLY",
-      "team_stadium": "Home Park"
+      "team_name": "Charlton Athletic",
+      "team_abbreviation": "CHA",
+      "team_stadium": "The Valley"
     },
     {
       "team_id": 15,
@@ -109,9 +109,9 @@
     },
     {
       "team_id": 19,
-      "team_name": "Sheffield Wednesday",
-      "team_abbreviation": "SHW",
-      "team_stadium": "Hillsborough"
+      "team_name": "Bolton Wanderers",
+      "team_abbreviation": "BOL",
+      "team_stadium": "Toughsheet Community Stadium"
     },
     {
       "team_id": 20,
@@ -121,9 +121,9 @@
     },
     {
       "team_id": 21,
-      "team_name": "Sunderland",
-      "team_abbreviation": "SUN",
-      "team_stadium": "Stadium of Light"
+      "team_name": "West Bromwich Albion",
+      "team_abbreviation": "WBA",
+      "team_stadium": "The Hawthorns"
     },
     {
       "team_id": 22,
@@ -139,8 +139,8 @@
     },
     {
       "team_id": 24,
-      "team_name": "West Bromwich Albion",
-      "team_abbreviation": "WBA",
-      "team_stadium": "The Hawthorns"
+      "team_name": "Wolverhampton Wanderers",
+      "team_abbreviation": "WOL",
+      "team_stadium": "Molineux Stadium"
     }
-  ]  
+]
