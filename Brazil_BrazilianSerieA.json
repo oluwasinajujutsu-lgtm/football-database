@@ -1,13 +1,13 @@
 [
     {
       "team_id": 1,
-      "team_name": "América-MG",
-      "team_abbreviation": "AMG",
-      "team_stadium": "Estádio Independência"
+      "team_name": "Vitória",
+      "team_abbreviation": "VIT",
+      "team_stadium": "Estádio Manoel Barradas"
     },
     {
       "team_id": 2,
-      "team_name": "Athletico-PR",
+      "team_name": "Athletico Paranaense",
       "team_abbreviation": "CAP",
       "team_stadium": "Arena da Baixada"
     },
@@ -38,14 +38,14 @@
     {
       "team_id": 7,
       "team_name": "Coritiba",
-      "team_abbreviation": "CTB",
+      "team_abbreviation": "CFC",
       "team_stadium": "Estádio Couto Pereira"
     },
     {
       "team_id": 8,
-      "team_name": "Cuiabá",
-      "team_abbreviation": "CUI",
-      "team_stadium": "Arena Pantanal"
+      "team_name": "Mirassol",
+      "team_abbreviation": "MIR",
+      "team_stadium": "Estádio José Maria de Campos Maia"
     },
     {
       "team_id": 9,
@@ -67,15 +67,15 @@
     },
     {
       "team_id": 12,
-      "team_name": "Fortaleza",
-      "team_abbreviation": "FOR",
-      "team_stadium": "Estádio Castelão"
+      "team_name": "São Paulo",
+      "team_abbreviation": "SAO",
+      "team_stadium": "Estádio do Morumbi"
     },
     {
       "team_id": 13,
-      "team_name": "Goiás",
-      "team_abbreviation": "GOI",
-      "team_stadium": "Estádio Serrinha"
+      "team_name": "Remo",
+      "team_abbreviation": "REM",
+      "team_stadium": "Estádio Baenão"
     },
     {
       "team_id": 14,
@@ -98,7 +98,7 @@
     {
       "team_id": 17,
       "team_name": "Red Bull Bragantino",
-      "team_abbreviation": "RBB",
+      "team_abbreviation": "BRA",
       "team_stadium": "Estádio Nabi Abi Chedid"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "team_id": 19,
-      "team_name": "São Paulo",
-      "team_abbreviation": "SAO",
-      "team_stadium": "Estádio do Morumbi"
+      "team_name": "Chapecoense",
+      "team_abbreviation": "CHA",
+      "team_stadium": "Arena Condá"
     },
     {
       "team_id": 20,
@@ -119,4 +119,4 @@
       "team_abbreviation": "VAS",
       "team_stadium": "Estádio São Januário"
     }
-  ]
+]

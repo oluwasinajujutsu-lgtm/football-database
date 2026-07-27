@@ -2,14 +2,14 @@
     {
       "team_id": 1,
       "team_name": "Ajax Amsterdam",
-      "team_abbreviation": "AJAX",
+      "team_abbreviation": "AJX",
       "team_stadium": "Johan Cruyff Arena"
     },
     {
       "team_id": 2,
-      "team_name": "Almere City",
-      "team_abbreviation": "ALM",
-      "team_stadium": "Yanmar Stadion"
+      "team_name": "ADO Den Haag",
+      "team_abbreviation": "ADO",
+      "team_stadium": "Bingoal Stadion"
     },
     {
       "team_id": 3,
@@ -55,9 +55,9 @@
     },
     {
       "team_id": 10,
-      "team_name": "FC Volendam",
-      "team_abbreviation": "VOL",
-      "team_stadium": "Kras Stadion"
+      "team_name": "FC Groningen",
+      "team_abbreviation": "GRO",
+      "team_stadium": "Euroborg"
     },
     {
       "team_id": 11,
@@ -67,44 +67,44 @@
     },
     {
       "team_id": 12,
-      "team_name": "Heracles Almelo",
-      "team_abbreviation": "HER",
-      "team_stadium": "Erve Asito"
-    },
-    {
-      "team_id": 13,
       "team_name": "NEC Nijmegen",
       "team_abbreviation": "NEC",
       "team_stadium": "Stadion de Goffert"
     },
     {
-      "team_id": 14,
+      "team_id": 13,
       "team_name": "PEC Zwolle",
-      "team_abbreviation": "ZWO",
+      "team_abbreviation": "PEC",
       "team_stadium": "MAC³PARK Stadion"
     },
     {
-      "team_id": 15,
+      "team_id": 14,
       "team_name": "PSV Eindhoven",
       "team_abbreviation": "PSV",
       "team_stadium": "Philips Stadion"
     },
     {
-      "team_id": 16,
-      "team_name": "RKC Waalwijk",
-      "team_abbreviation": "RKC",
-      "team_stadium": "Mandemakers Stadion"
-    },
-    {
-      "team_id": 17,
+      "team_id": 15,
       "team_name": "Sparta Rotterdam",
       "team_abbreviation": "SPA",
       "team_stadium": "Sparta Stadion Het Kasteel"
     },
     {
+      "team_id": 16,
+      "team_name": "SC Cambuur",
+      "team_abbreviation": "CAM",
+      "team_stadium": "Kooi Stadion"
+    },
+    {
+      "team_id": 17,
+      "team_name": "Telstar",
+      "team_abbreviation": "TEL",
+      "team_stadium": "711 Stadion"
+    },
+    {
       "team_id": 18,
-      "team_name": "Vitesse",
-      "team_abbreviation": "VIT",
-      "team_stadium": "Stadion GelreDome"
+      "team_name": "Willem II",
+      "team_abbreviation": "WIL",
+      "team_stadium": "Koning Willem II Stadion"
     }
-  ]
+]

@@ -1,51 +1,51 @@
 [
     {
         "team_id": 1,
-        "team_name": "Heidenheim",
-        "team_abbreviation": "HDH",
-        "team_stadium": "Voith-Arena"
-    },
-    {
-        "team_id": 2,
-        "team_name": "Union Berlin",
-        "team_abbreviation": "FCU",
-        "team_stadium": "Stadion An der Alten Försterei"
-    },
-    {
-        "team_id": 3,
-        "team_name": "Bayer Leverkusen",
-        "team_abbreviation": "LEV",
-        "team_stadium": "BayArena"
-    },
-    {
-        "team_id": 4,
-        "team_name": "Bayern Munich",
-        "team_abbreviation": "FCB",
-        "team_stadium": "Allianz Arena"
-    },
-    {
-        "team_id": 5,
-        "team_name": "Borussia Dortmund",
-        "team_abbreviation": "BVB",
-        "team_stadium": "Signal Iduna Park"
-    },
-    {
-        "team_id": 6,
-        "team_name": "Borussia Monchengladbach",
-        "team_abbreviation": "BMG",
-        "team_stadium": "Borussia-Park"
-    },
-    {
-        "team_id": 7,
         "team_name": "FC Augsburg",
         "team_abbreviation": "FCA",
         "team_stadium": "WWK Arena"
     },
     {
-        "team_id": 8,
+        "team_id": 2,
+        "team_name": "Bayer Leverkusen",
+        "team_abbreviation": "LEV",
+        "team_stadium": "BayArena"
+    },
+    {
+        "team_id": 3,
+        "team_name": "Bayern Munich",
+        "team_abbreviation": "FCB",
+        "team_stadium": "Allianz Arena"
+    },
+    {
+        "team_id": 4,
+        "team_name": "Borussia Dortmund",
+        "team_abbreviation": "BVB",
+        "team_stadium": "Signal Iduna Park"
+    },
+    {
+        "team_id": 5,
+        "team_name": "Borussia Monchengladbach",
+        "team_abbreviation": "BMG",
+        "team_stadium": "Borussia-Park"
+    },
+    {
+        "team_id": 6,
         "team_name": "Eintracht Frankfurt",
         "team_abbreviation": "SGE",
         "team_stadium": "Deutsche Bank Park"
+    },
+    {
+        "team_id": 7,
+        "team_name": "SV Elversberg",
+        "team_abbreviation": "ELV",
+        "team_stadium": "URSAPHARM-Arena"
+    },
+    {
+        "team_id": 8,
+        "team_name": "FC Cologne",
+        "team_abbreviation": "KOE",
+        "team_stadium": "RheinEnergieStadion"
     },
     {
         "team_id": 9,
@@ -55,9 +55,9 @@
     },
     {
         "team_id": 10,
-        "team_name": "Holstein Kiel",
-        "team_abbreviation": "KSV",
-        "team_stadium": "Holstein-Stadion"
+        "team_name": "Hamburg SV",
+        "team_abbreviation": "HSV",
+        "team_stadium": "Volksparkstadion"
     },
     {
         "team_id": 11,
@@ -73,9 +73,9 @@
     },
     {
         "team_id": 13,
-        "team_name": "St. Pauli",
-        "team_abbreviation": "STP",
-        "team_stadium": "Millerntor-Stadion"
+        "team_name": "SC Paderborn 07",
+        "team_abbreviation": "SCP",
+        "team_stadium": "Home Deluxe Arena"
     },
     {
         "team_id": 14,
@@ -91,15 +91,15 @@
     },
     {
         "team_id": 16,
-        "team_name": "VfL Bochum",
-        "team_abbreviation": "BOC",
-        "team_stadium": "Vonovia Ruhrstadion"
+        "team_name": "Schalke 04",
+        "team_abbreviation": "S04",
+        "team_stadium": "VELTINS-Arena"
     },
     {
         "team_id": 17,
-        "team_name": "VfL Wolfsburg",
-        "team_abbreviation": "WOB",
-        "team_stadium": "Volkswagen Arena"
+        "team_name": "FC Union Berlin",
+        "team_abbreviation": "FCU",
+        "team_stadium": "Stadion An der Alten Försterei"
     },
     {
         "team_id": 18,
@@ -107,4 +107,4 @@
         "team_abbreviation": "SVW",
         "team_stadium": "Wohninvest Weserstadion"
     }
-]  
+]

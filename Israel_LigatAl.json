@@ -1,9 +1,9 @@
 [
   {
     "team_id": "1",
-    "team_name": "Ashdod",
-    "team_abbreviation": "ASH",
-    "team_stadium": "Ashdod Municipal Stadium"
+    "team_name": "Hapoel Ramat Gan",
+    "team_abbreviation": "HRG",
+    "team_stadium": ""
   },
   {
     "team_id": "2",
@@ -25,9 +25,9 @@
   },
   {
     "team_id": "5",
-    "team_name": "Hapoel Hadera",
-    "team_abbreviation": "HHD",
-    "team_stadium": "Netanya Stadium"
+    "team_name": "Ironi Kiryat Shmona",
+    "team_abbreviation": "IKS",
+    "team_stadium": "Kiryat Shmona Stadium"
   },
   {
     "team_id": "6",
@@ -55,9 +55,9 @@
   },
   {
     "team_id": "10",
-    "team_name": "Maccabi Bnei Reineh",
-    "team_abbreviation": "MBR",
-    "team_stadium": "N/A"
+    "team_name": "Ironi Tiberias",
+    "team_abbreviation": "TIB",
+    "team_stadium": "Barel Stadium"
   },
   {
     "team_id": "11",

@@ -49,9 +49,9 @@
     },
     {
       "team_id": 9,
-      "team_name": "Montpellier",
-      "team_abbreviation": "MON",
-      "team_stadium": "Stade de la Mosson"
+      "team_name": "Le Mans",
+      "team_abbreviation": "MNS",
+      "team_stadium": "Stade Marie-Marvingt"
     },
     {
       "team_id": 10,
@@ -61,9 +61,9 @@
     },
     {
       "team_id": 11,
-      "team_name": "Nantes",
-      "team_abbreviation": "NAN",
-      "team_stadium": "Stade de la Beaujoire"
+      "team_name": "Lorient",
+      "team_abbreviation": "LOR",
+      "team_stadium": "Stade du Moustoir"
     },
     {
       "team_id": 12,
@@ -79,9 +79,9 @@
     },
     {
       "team_id": 14,
-      "team_name": "Saint-Etienne",
-      "team_abbreviation": "ASS",
-      "team_stadium": "Stade Geoffroy-Guichard"
+      "team_name": "Paris FC",
+      "team_abbreviation": "PAR",
+      "team_stadium": "Stade Jean-Bouin"
     },
     {
       "team_id": 15,
@@ -103,8 +103,8 @@
     },
     {
       "team_id": 18,
-      "team_name": "Stade de Reims",
-      "team_abbreviation": "SR",
-      "team_stadium": "Stade Auguste-Delaune"
+      "team_name": "Troyes",
+      "team_abbreviation": "TRY",
+      "team_stadium": "Stade de l'Aube"
     }
-  ]  
+]

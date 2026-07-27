@@ -14,20 +14,20 @@
     {
         "team_id": 3,
         "team_name": "Cercle Brugge KSV",
-        "team_abbreviation": "CEB",
+        "team_abbreviation": "CER",
         "team_stadium": "Jan Breydel Stadium"
     },
     {
         "team_id": 4,
         "team_name": "Club Brugge",
-        "team_abbreviation": "CLB",
+        "team_abbreviation": "CLU",
         "team_stadium": "Jan Breydel Stadium"
     },
     {
         "team_id": 5,
-        "team_name": "Eupen",
-        "team_abbreviation": "EUP",
-        "team_stadium": "Kehrwegstadion"
+        "team_name": "Waasland-Beveren",
+        "team_abbreviation": "WAA",
+        "team_stadium": "Freethiel Stadion"
     },
     {
         "team_id": 6,
@@ -73,9 +73,9 @@
     },
     {
         "team_id": 13,
-        "team_name": "RWDM",
-        "team_abbreviation": "RWD",
-        "team_stadium": "Edmond Machtens Stadium"
+        "team_name": "Lommel SK",
+        "team_abbreviation": "LOM",
+        "team_stadium": "Soevereinstadion"
     },
     {
         "team_id": 14,
@@ -86,7 +86,7 @@
     {
         "team_id": 15,
         "team_name": "Standard Liege",
-        "team_abbreviation": "STL",
+        "team_abbreviation": "STA",
         "team_stadium": "Stade Maurice Dufrasne"
     },
     {
@@ -94,5 +94,17 @@
         "team_name": "Union St.-Gilloise",
         "team_abbreviation": "USG",
         "team_stadium": "Stade Joseph Marien"
+    },
+    {
+        "team_id": 17,
+        "team_name": "RAAL La Louvière",
+        "team_abbreviation": "RLL",
+        "team_stadium": "Stade du Tivoli"
+    },
+    {
+        "team_id": 18,
+        "team_name": "Zulte-Waregem",
+        "team_abbreviation": "ZW",
+        "team_stadium": "Elindus Arena"
     }
 ]

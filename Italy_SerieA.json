@@ -31,15 +31,15 @@
   },
   {
     "team_id": 6,
-    "team_name": "Empoli",
-    "team_abbreviation": "EMP",
-    "team_stadium": "Stadio Carlo Castellani"
-  },
-  {
-    "team_id": 7,
     "team_name": "Fiorentina",
     "team_abbreviation": "FIO",
     "team_stadium": "Stadio Artemio Franchi"
+  },
+  {
+    "team_id": 7,
+    "team_name": "Frosinone",
+    "team_abbreviation": "FRO",
+    "team_stadium": "Stadio Benito Stirpe"
   },
   {
     "team_id": 8,
@@ -49,7 +49,7 @@
   },
   {
     "team_id": 9,
-    "team_name": "Inter Milan",
+    "team_name": "Internazionale",
     "team_abbreviation": "INT",
     "team_stadium": "San Siro"
   },
@@ -73,50 +73,50 @@
   },
   {
     "team_id": 13,
+    "team_name": "Monza",
+    "team_abbreviation": "MON",
+    "team_stadium": "U-Power Stadium"
+  },
+  {
+    "team_id": 14,
     "team_name": "Napoli",
     "team_abbreviation": "NAP",
     "team_stadium": "Stadio Diego Armando Maradona"
   },
   {
-    "team_id": 14,
-    "team_name": "AS Roma",
-    "team_abbreviation": "ROMA",
-    "team_stadium": "Stadio Olimpico"
-  },
-  {
     "team_id": 15,
-    "team_name": "Torino",
-    "team_abbreviation": "TOR",
-    "team_stadium": "Stadio Olimpico Grande Torino"
-  },
-  {
-    "team_id": 16,
-    "team_name": "Udinese",
-    "team_abbreviation": "UDI",
-    "team_stadium": "Dacia Arena"
-  },
-  {
-    "team_id": 17,
-    "team_name": "Venezia",
-    "team_abbreviation": "VEN",
-    "team_stadium": "Stadio Pierluigi Penzo"
-  },
-  {
-    "team_id": 18,
-    "team_name": "Hellas Verona",
-    "team_abbreviation": "VER",
-    "team_stadium": "Stadio Marcantonio Bentegodi"
-  },
-  {
-    "team_id": 19,
     "team_name": "Parma",
     "team_abbreviation": "PAR",
     "team_stadium": "Stadio Ennio Tardini"
   },
   {
+    "team_id": 16,
+    "team_name": "AS Roma",
+    "team_abbreviation": "ROMA",
+    "team_stadium": "Stadio Olimpico"
+  },
+  {
+    "team_id": 17,
+    "team_name": "Sassuolo",
+    "team_abbreviation": "SAS",
+    "team_stadium": "MAPEI Stadium"
+  },
+  {
+    "team_id": 18,
+    "team_name": "Torino",
+    "team_abbreviation": "TOR",
+    "team_stadium": "Stadio Olimpico Grande Torino"
+  },
+  {
+    "team_id": 19,
+    "team_name": "Udinese",
+    "team_abbreviation": "UDI",
+    "team_stadium": "Dacia Arena"
+  },
+  {
     "team_id": 20,
-    "team_name": "Monza",
-    "team_abbreviation": "MON",
-    "team_stadium": "U-Power Stadium"
+    "team_name": "Venezia",
+    "team_abbreviation": "VEN",
+    "team_stadium": "Stadio Pierluigi Penzo"
   }
 ]

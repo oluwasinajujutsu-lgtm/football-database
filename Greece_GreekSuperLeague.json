@@ -20,7 +20,7 @@
   {
     "team_id": 4,
     "team_name": "Atromitos",
-    "team_abbreviation": "ATRO",
+    "team_abbreviation": "ATR",
     "team_stadium": "Peristeri Stadium"
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "team_id": 6,
-    "team_name": "Lamia",
-    "team_abbreviation": "LAM",
-    "team_stadium": "Lamia Municipal Stadium"
+    "team_name": "Iraklis",
+    "team_abbreviation": "IRK",
+    "team_stadium": "Kaftanzoglio Stadium"
   },
   {
     "team_id": 7,
@@ -43,14 +43,14 @@
   },
   {
     "team_id": 8,
-    "team_name": "Olympiakos",
+    "team_name": "Olympiacos",
     "team_abbreviation": "OLY",
     "team_stadium": "Georgios Karaiskakis Stadium"
   },
   {
     "team_id": 9,
-    "team_name": "PAOK Salonika",
-    "team_abbreviation": "PAOK",
+    "team_name": "PAOK",
+    "team_abbreviation": "PKT",
     "team_stadium": "Toumba Stadium"
   },
   {
@@ -62,25 +62,25 @@
   {
     "team_id": 11,
     "team_name": "Panetolikos",
-    "team_abbreviation": "PAN",
+    "team_abbreviation": "PTL",
     "team_stadium": "Panetolikos Stadium"
   },
   {
     "team_id": 12,
-    "team_name": "Panserraikos FC",
-    "team_abbreviation": "PAN",
-    "team_stadium": "Serres Municipal Stadium"
+    "team_name": "Kalamata",
+    "team_abbreviation": "KAL",
+    "team_stadium": "Paralia Municipal Stadium"
   },
   {
     "team_id": 13,
-    "team_name": "Pas Giannina",
-    "team_abbreviation": "PAS",
-    "team_stadium": "Zosimades Stadium"
+    "team_name": "Levadiakos",
+    "team_abbreviation": "LEV",
+    "team_stadium": "Levadia Municipal Stadium"
   },
   {
     "team_id": 14,
     "team_name": "Volos NFC",
-    "team_abbreviation": "VOL",
-    "team_stadium": "Nea Smyrni Stadium"
+    "team_abbreviation": "VLO",
+    "team_stadium": "Panthessaliko Stadium"
   }
 ]

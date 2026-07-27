@@ -2,7 +2,7 @@
     {
       "team_id": 1,
       "team_name": "Aberdeen",
-      "team_abbreviation": "ABD",
+      "team_abbreviation": "ABE",
       "team_stadium": "Pittodrie Stadium"
     },
     {
@@ -14,12 +14,12 @@
     {
       "team_id": 3,
       "team_name": "Dundee",
-      "team_abbreviation": "DUN",
+      "team_abbreviation": "DND",
       "team_stadium": "Dens Park"
     },
     {
       "team_id": 4,
-      "team_name": "Hearts",
+      "team_name": "Heart of Midlothian",
       "team_abbreviation": "HEA",
       "team_stadium": "Tynecastle Park"
     },
@@ -37,9 +37,9 @@
     },
     {
       "team_id": 7,
-      "team_name": "Livingston",
-      "team_abbreviation": "LIV",
-      "team_stadium": "Tony Macaroni Arena"
+      "team_name": "Dundee United",
+      "team_abbreviation": "DNU",
+      "team_stadium": "Tannadice Park"
     },
     {
       "team_id": 8,
@@ -55,9 +55,9 @@
     },
     {
       "team_id": 10,
-      "team_name": "Ross County",
-      "team_abbreviation": "ROS",
-      "team_stadium": "Global Energy Stadium"
+      "team_name": "Falkirk",
+      "team_abbreviation": "FAL",
+      "team_stadium": "Falkirk Stadium"
     },
     {
       "team_id": 11,
@@ -71,4 +71,4 @@
       "team_abbreviation": "STM",
       "team_stadium": "Simple Digital Arena"
     }
-  ]
+]
